@@ -1,0 +1,9 @@
+.parallax {
+    background: url(parallax-bg.jpg) no-repeat;
+    background-attachment: inherit;
+    height: 417px;
+    position: absolute;
+    width: 100%;
+    background-size: cover;
+    top: 0;
+}
